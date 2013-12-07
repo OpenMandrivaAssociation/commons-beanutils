@@ -1,6 +1,6 @@
 Name:		commons-beanutils
 Version:	1.8.3
-Release:	3
+Release:	4
 Summary:	Commons BeanUtils Package
 License:	Apache License
 Group:		Development/Java
