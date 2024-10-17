@@ -16,7 +16,7 @@ Source8:        commons-build.tar.gz
 Source9:        commons-beanutils-maven.xml
 Source10:       commons-beanutils-build-other-jars.xml
 
-Url:		http://commons.apache.org/beanutils/
+Url:		https://commons.apache.org/beanutils/
 BuildRequires:	ant
 BuildRequires:	locales-en
 BuildRequires:	commons-collections >= 0:2.0
